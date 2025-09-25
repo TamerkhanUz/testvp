@@ -8,7 +8,7 @@ from aiogram.fsm.context import FSMContext
 from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.types import WebAppInfo
 # --- Sozlamalar ---
-BOT_TOKEN = "8184663205:AAHbnwXBHjXHueyOBqiFN7d3TcBmorqSheA"
+BOT_TOKEN = "8184663205:AAE9EeucuooZ4EcT1B1g6OR6Ejsymejw3T4"
 WEB_APP_URL = "https://tamerkhan.uz/player2.html"
 DB_PATH = "users.db"
 
